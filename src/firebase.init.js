@@ -6,12 +6,12 @@ import {getAuth} from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAYjiJlVDr7oiYChx--scZ_8vOLf8OWBbI",
-    authDomain: "people-s-studio.firebaseapp.com",
-    projectId: "people-s-studio",
-    storageBucket: "people-s-studio.appspot.com",
-    messagingSenderId: "282932567280",
-    appId: "1:282932567280:web:d5465fb2e04dcb6c15b635"
+  apiKey: "AIzaSyAA1W7AsJ7TqOW74WMmgXJAc1J9Tm-CYZ4",
+  authDomain: "g-meet-bdf4e.firebaseapp.com",
+  projectId: "g-meet-bdf4e",
+  storageBucket: "g-meet-bdf4e.appspot.com",
+  messagingSenderId: "801020641832",
+  appId: "1:801020641832:web:0cf32b9148d38552caab1d"
 };
 
 // Initialize Firebase

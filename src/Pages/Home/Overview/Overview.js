@@ -39,7 +39,7 @@ const Overview = () => {
                                 Start a meeting
                             </Button>
                             <p className='mx-2 mt-2'>or</p>
-                            <input placeholder='Enter meeting code' type="Number" />
+                            <input className='rounded-3' placeholder='Enter meeting code' type="Number" />
                             <Button className='mx-2'>Join</Button>
                         </div>
                     </div>

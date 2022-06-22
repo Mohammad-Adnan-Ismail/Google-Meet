@@ -54,7 +54,7 @@ const Header = () => {
                                     Sign in
                                 </Nav.Link>}
 
-                        <input className='mx-1' placeholder='Enter meeting code' type="Number" />
+                        <input className='mx-1 rounded-3' placeholder='Enter meeting code' type="Number" />
                         <Button className='mx-2'>Join</Button>
 
                         <Button>
