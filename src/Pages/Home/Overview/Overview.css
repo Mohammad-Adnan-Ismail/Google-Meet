@@ -1,0 +1,13 @@
+.logos{
+    border: 0px solid grey;
+    box-shadow: 0px 1px rgb(165, 153, 153);
+    
+}
+.logos,li{
+list-style-type: none;
+float:right;
+margin-top: 20px;
+padding: 30px;
+margin-right: 30px;
+
+}
